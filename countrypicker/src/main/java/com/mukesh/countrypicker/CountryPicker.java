@@ -273,7 +273,6 @@ public class CountryPicker implements BottomSheetInteractionListener, LifecycleO
        new Country("PW", context.getString(R.string.palau), "+680", R.drawable.flag_pw, "USD"),
        new Country("PY", context.getString(R.string.paraguay), "+595", R.drawable.flag_py, "PYG"),
        new Country("QA", context.getString(R.string.qatar), "+974", R.drawable.flag_qa, "QAR"),
-       new Country("RE", context.getString(R.string.reunion), "+262", R.drawable.flag_re, "EUR"),
        new Country("RO", context.getString(R.string.romania), "+40", R.drawable.flag_ro, "RON"),
        new Country("RS", context.getString(R.string.serbia), "+381", R.drawable.flag_rs, "RSD"),
        new Country("RU", context.getString(R.string.russia), "+7", R.drawable.flag_ru, "RUB"),
